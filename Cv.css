@@ -1,0 +1,53 @@
+body {
+    font-family:cursive;
+    margin: 20px;
+    background-color: rgb(240, 220, 195);
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  h2{
+text-decoration-line: underline;
+
+  }
+  p {
+    margin: 5px 0;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type:disc;
+    padding: 0;
+  }
+  
+  .image{
+
+    height: 150px;
+    width: 150px;
+  }
+  .left{
+float: left;
+width: 30%;
+  padding: 15px;
+
+  }
+  .right{
+
+float: right;
+width: 30%;
+padding: 50px;
+  }
+ hr{
+border-color: brown;
+
+ }
+ 
+ 
